@@ -1,0 +1,115 @@
+{
+	"id": "5627a85d-44ba-f011-8194-0022489bf196",
+	"createdAt": "2025-11-05T12:38:45.030Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/dvieira-neptune/i18nTranslationExample",
+		"branch": "master"
+	},
+	"name": "enablement_examples",
+	"description": null,
+	"ver": "25.11.11.1125",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [
+		{
+			"id": "a39a0e15-c9bb-f011-8194-000d3a68c155",
+			"application": "enablement_app_example",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [
+		{
+			"id": "28297e3b-c2bb-f011-8194-000d3a68c155",
+			"name": "enablement_table_api_example",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "c6c6a0d1-c1bb-f011-8194-000d3a68c155",
+			"name": "enablement_table_example",
+			"description": null
+		}
+	],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"theme_generator": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "bbbf43d4-cebb-f011-8194-000d3a68c155",
+			"description": "{i18n.example_translations>Tile.TileDetails}",
+			"name": "enablement_tile_example"
+		}
+	],
+	"tile_layout": [],
+	"category": [
+		{
+			"id": "eebe6de3-cebb-f011-8194-000d3a68c155",
+			"description": "{i18n.example_translations>TileGroup.TileGroupDescription}",
+			"name": "enablement_tilegroup_example"
+		}
+	],
+	"tilegroup_layout": [],
+	"launchpad": [
+		{
+			"id": "78d2c4ea-cebb-f011-8194-000d3a68c155",
+			"name": "enablement_launchpad_example",
+			"description": "{i18n.example_translations>Launchpad.LaunchpadDescription}"
+		}
+	],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [
+		{
+			"id": "18e616be-c1bb-f011-8194-000d3a68c155",
+			"name": "enablement_role_example",
+			"description": null
+		}
+	],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [
+		{
+			"id": "916f0794-aab4-f011-8e60-000d3ab62c7a",
+			"name": "example_translations",
+			"description": null
+		},
+		{
+			"id": "3d99312f-c9bb-f011-8194-000d3a68c155",
+			"name": "enablement_app_example",
+			"description": null
+		}
+	],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": [],
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": []
+}

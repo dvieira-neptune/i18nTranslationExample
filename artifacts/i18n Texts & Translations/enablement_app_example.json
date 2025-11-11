@@ -1,0 +1,58 @@
+{
+	"id": "3d99312f-c9bb-f011-8194-000d3a68c155",
+	"createdAt": "2025-11-07T11:02:01.336Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"attributes": [
+		{
+			"name": "pageTitle",
+			"text": "Example i18n with Local & Global Models",
+			"EN": {
+				"text": "Example i18n with Local & Global Models"
+			},
+			"type": "XTXT",
+			"id": "c0a7c689-d6cf-4a17-c423-d0951b7868a3",
+			"DE": {
+				"text": "Beispiel für Internationalisierung mit lokalen und globalen Modellen"
+			},
+			"FR": {
+				"text": "Exemple d'internationalisation (i18n) avec des modèles locaux et globaux"
+			},
+			"PT": {
+				"text": "Exemplo de internacionalização (i18n) com modelos locais e globais"
+			}
+		}
+	],
+	"locales": [
+		{
+			"isoCode": "EN"
+		},
+		{
+			"isoCode": "DE"
+		},
+		{
+			"isoCode": "FR"
+		},
+		{
+			"isoCode": "PT"
+		}
+	],
+	"name": "enablement_app_example",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "enablement_app_example",
+	"ver": "25.11.10.1409",
+	"package": "5627a85d-44ba-f011-8194-0022489bf196",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"apps": [
+		{
+			"id": "a39a0e15-c9bb-f011-8194-000d3a68c155",
+			"application": "enablement_app_example",
+			"title": "",
+			"ver": "25.11.10.1409"
+		}
+	],
+	"baseModel": null
+}

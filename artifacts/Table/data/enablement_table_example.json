@@ -1,0 +1,112 @@
+[
+	{
+		"id": "a324d0e5-c2bb-f011-8194-000d3a68c155",
+		"createdAt": "1762510621193",
+		"updatedAt": "1762510621193",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"materialID": 10,
+		"description": "Ceramic Tile",
+		"weight": "20",
+		"price": "15"
+	},
+	{
+		"id": "a224d0e5-c2bb-f011-8194-000d3a68c155",
+		"createdAt": "1762510621193",
+		"updatedAt": "1762510621193",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"materialID": 9,
+		"description": "Brick",
+		"weight": "120",
+		"price": "30"
+	},
+	{
+		"id": "a124d0e5-c2bb-f011-8194-000d3a68c155",
+		"createdAt": "1762510621193",
+		"updatedAt": "1762510621193",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"materialID": 8,
+		"description": "Wood Plank",
+		"weight": "75",
+		"price": "25"
+	},
+	{
+		"id": "a024d0e5-c2bb-f011-8194-000d3a68c155",
+		"createdAt": "1762510621193",
+		"updatedAt": "1762510621193",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"materialID": 7,
+		"description": "Iron Rod",
+		"weight": "100",
+		"price": "60"
+	},
+	{
+		"id": "9f24d0e5-c2bb-f011-8194-000d3a68c155",
+		"createdAt": "1762510621193",
+		"updatedAt": "1762510621193",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"materialID": 6,
+		"description": "Glass Panel",
+		"weight": "200",
+		"price": "100"
+	},
+	{
+		"id": "9e24d0e5-c2bb-f011-8194-000d3a68c155",
+		"createdAt": "1762510621193",
+		"updatedAt": "1762510621193",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"materialID": 5,
+		"description": "PVC Pipe",
+		"weight": "30",
+		"price": "5.5"
+	},
+	{
+		"id": "9d24d0e5-c2bb-f011-8194-000d3a68c155",
+		"createdAt": "1762510621193",
+		"updatedAt": "1762510621193",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"materialID": 4,
+		"description": "Copper Wire",
+		"weight": "50",
+		"price": "10"
+	},
+	{
+		"id": "9c24d0e5-c2bb-f011-8194-000d3a68c155",
+		"createdAt": "1762510621193",
+		"updatedAt": "1762510621193",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"materialID": 3,
+		"description": "Concrete Block",
+		"weight": "300",
+		"price": "45"
+	},
+	{
+		"id": "9b24d0e5-c2bb-f011-8194-000d3a68c155",
+		"createdAt": "1762510621193",
+		"updatedAt": "1762510621193",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"materialID": 2,
+		"description": "Aluminum Sheet",
+		"weight": "150",
+		"price": "75.5"
+	},
+	{
+		"id": "9a24d0e5-c2bb-f011-8194-000d3a68c155",
+		"createdAt": "1762510621193",
+		"updatedAt": "1762510621193",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"materialID": 1,
+		"description": "Steel Beam",
+		"weight": "250.5",
+		"price": "120"
+	}
+]

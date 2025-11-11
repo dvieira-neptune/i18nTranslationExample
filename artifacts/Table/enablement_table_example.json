@@ -1,0 +1,63 @@
+{
+	"id": "c6c6a0d1-c1bb-f011-8194-000d3a68c155",
+	"createdAt": "2025-11-07T10:09:27.496Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"fields": [
+		{
+			"id": "fec7ed00-4cc8-44b6-ea27-236cb8d797b5",
+			"fieldName": "materialID",
+			"fieldType": "integer",
+			"isUnique": true,
+			"description": "Material ID",
+			"isNullable": true
+		},
+		{
+			"id": "f75c348f-216b-42c8-9057-1986e9b490d5",
+			"fieldName": "description",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true,
+			"description": "Description"
+		},
+		{
+			"id": "3f7e59d3-9b9a-4fbd-e199-37e1e342170b",
+			"fieldName": "weight",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true,
+			"description": "Weight (KG)"
+		},
+		{
+			"id": "a9c9b626-816e-413c-8a74-b953fa42c0fc",
+			"fieldName": "price",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true,
+			"description": "Price (EUR)"
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"vectorStoreConfig": {},
+	"name": "enablement_table_example",
+	"description": null,
+	"ver": "25.11.11.1124",
+	"enableAudit": false,
+	"includeDataInPackage": true,
+	"package": "5627a85d-44ba-f011-8194-0022489bf196",
+	"generationStrategy": null,
+	"rolesRead": [
+		{
+			"id": "18e616be-c1bb-f011-8194-000d3a68c155",
+			"name": "enablement_role_example",
+			"ver": "25.11.07.1008"
+		}
+	],
+	"rolesWrite": [
+		{
+			"id": "18e616be-c1bb-f011-8194-000d3a68c155",
+			"name": "enablement_role_example",
+			"ver": "25.11.07.1008"
+		}
+	]
+}

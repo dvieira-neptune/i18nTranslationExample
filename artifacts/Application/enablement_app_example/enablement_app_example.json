@@ -1,0 +1,355 @@
+{
+	"id": "a39a0e15-c9bb-f011-8194-000d3a68c155",
+	"createdAt": "2025-11-07T11:01:17.470Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "dba3f86c-2211-4c9d-9877-4b06b76e1413",
+			"fieldName": "App",
+			"fieldParent": 0,
+			"fieldType": "sap.m.App",
+			"script": "",
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "ac0be909-26c8-4e2f-db51-1d1cc66a5c07",
+					"fieldName": "Page",
+					"fieldParent": "dba3f86c-2211-4c9d-9877-4b06b76e1413",
+					"fieldType": "sap.m.Page",
+					"script": "",
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "title",
+							"grouping": "Properties",
+							"value": "{i18n>pageTitle}",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "37730c37-eee4-47d8-e439-e450ffb94c03",
+							"fieldName": "Table",
+							"fieldParent": "ac0be909-26c8-4e2f-db51-1d1cc66a5c07",
+							"fieldType": "sap.m.Table",
+							"script": "",
+							"bindingValue": "enablement_table_api_example>enablement_table_example",
+							"bindingType": "h",
+							"bindingSource": "API",
+							"bindingParentID": "28297E3B-C2BB-F011-8194-000D3A68C155",
+							"bindingPathID": "d80a4f8a-33a9-4457-9392-68ab36e6a548",
+							"request": [],
+							"response": [],
+							"attributes": [],
+							"data": [
+								{
+									"fieldNo": "2cf70307-bef8-4294-8b64-617b004da99c",
+									"fieldName": "colTablematerialID",
+									"fieldParent": "37730c37-eee4-47d8-e439-e450ffb94c03",
+									"fieldType": "sap.m.Column",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [],
+									"data": [
+										{
+											"fieldNo": "491fc381-8593-4507-a35e-c7e1b9e29d60",
+											"fieldName": "colHTablematerialID",
+											"fieldParent": "2cf70307-bef8-4294-8b64-617b004da99c",
+											"fieldType": "sap.m.Text",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "{i18n.example_translations>AppDesigner.tableMaterialID}",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										}
+									]
+								},
+								{
+									"fieldNo": "a5e3d671-35d9-4352-d45b-74097b2e8cbf",
+									"fieldName": "colTabledescription",
+									"fieldParent": "37730c37-eee4-47d8-e439-e450ffb94c03",
+									"fieldType": "sap.m.Column",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [],
+									"data": [
+										{
+											"fieldNo": "12ba81b7-b39f-4b0d-fb77-f1d22a74d229",
+											"fieldName": "colHTabledescription",
+											"fieldParent": "a5e3d671-35d9-4352-d45b-74097b2e8cbf",
+											"fieldType": "sap.m.Text",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "{i18n.example_translations>AppDesigner.tableDescription}",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										}
+									]
+								},
+								{
+									"fieldNo": "0e55af34-650f-452b-a8d7-a7581b200078",
+									"fieldName": "colTableweight",
+									"fieldParent": "37730c37-eee4-47d8-e439-e450ffb94c03",
+									"fieldType": "sap.m.Column",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [],
+									"data": [
+										{
+											"fieldNo": "cf4a8f99-d3ca-49d6-a5c9-a066af75e478",
+											"fieldName": "colHTableweight",
+											"fieldParent": "0e55af34-650f-452b-a8d7-a7581b200078",
+											"fieldType": "sap.m.Text",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "{i18n.example_translations>AppDesigner.tableWeight}",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										}
+									]
+								},
+								{
+									"fieldNo": "70287700-fdd2-42a4-f321-0eb2212a2fca",
+									"fieldName": "colTableprice",
+									"fieldParent": "37730c37-eee4-47d8-e439-e450ffb94c03",
+									"fieldType": "sap.m.Column",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [],
+									"data": [
+										{
+											"fieldNo": "7dff1286-77d3-4fde-a2ac-9f063d70a99e",
+											"fieldName": "colHTableprice",
+											"fieldParent": "70287700-fdd2-42a4-f321-0eb2212a2fca",
+											"fieldType": "sap.m.Text",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "{i18n.example_translations>AppDesigner.tablePrice}",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										}
+									]
+								},
+								{
+									"fieldNo": "08c5b885-46a7-46b8-bb5b-3b65e4c0a913",
+									"fieldName": "colItemTable",
+									"fieldParent": "37730c37-eee4-47d8-e439-e450ffb94c03",
+									"fieldType": "sap.m.ColumnListItem",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [],
+									"data": [
+										{
+											"fieldNo": "9aec2cee-fb6a-4f16-fe21-721d5883b1a5",
+											"fieldName": "txtTablematerialID",
+											"fieldParent": "08c5b885-46a7-46b8-bb5b-3b65e4c0a913",
+											"fieldType": "sap.m.Text",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "{materialID}",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "06183291-9728-4cfc-f621-a946c7e920aa",
+											"fieldName": "txtTabledescription",
+											"fieldParent": "08c5b885-46a7-46b8-bb5b-3b65e4c0a913",
+											"fieldType": "sap.m.Text",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "{description}",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "4cb9005f-c6b6-451a-dfc4-8a9072d496ea",
+											"fieldName": "txtTableweight",
+											"fieldParent": "08c5b885-46a7-46b8-bb5b-3b65e4c0a913",
+											"fieldType": "sap.m.Text",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "{weight}",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										},
+										{
+											"fieldNo": "7fa8979e-3392-4d83-b5db-23f76a9dbc78",
+											"fieldName": "txtTableprice",
+											"fieldParent": "08c5b885-46a7-46b8-bb5b-3b65e4c0a913",
+											"fieldType": "sap.m.Text",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "text",
+													"grouping": "Properties",
+													"value": "{price}",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": []
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": [
+				{
+					"fieldNo": "71a256a7-d45b-4528-ff4c-abfa0929773c",
+					"fieldName": "RestAPI",
+					"fieldParent": 99999,
+					"fieldType": "neptune.restapi",
+					"script": "",
+					"restSource": "28297e3b-c2bb-f011-8194-000d3a68c155",
+					"restOperation": "65e8cb7b-b420-4a51-9f88-cb1efe6428c9",
+					"request": [],
+					"response": [
+						{
+							"status": "200",
+							"dataId": "d80a4f8a-33a9-4457-9392-68ab36e6a548",
+							"modelFieldNo": "37730c37-eee4-47d8-e439-e450ffb94c03"
+						}
+					],
+					"attributes": [
+						{
+							"attribute": "setInitLoad",
+							"grouping": "Model",
+							"value": "online",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "25.11.10.1409",
+	"application": "enablement_app_example",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_integration": false,
+	"ui5_chart": false,
+	"ui5_theme": "",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"package": "5627a85d-44ba-f011-8194-0022489bf196",
+	"apis": [
+		{
+			"id": "28297e3b-c2bb-f011-8194-000d3a68c155",
+			"name": "enablement_table_api_example",
+			"ver": "25.11.07.1012"
+		}
+	]
+}

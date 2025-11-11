@@ -1,0 +1,514 @@
+{
+	"id": "916f0794-aab4-f011-8e60-000d3ab62c7a",
+	"createdAt": "2025-10-29T09:35:17.966Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"attributes": [
+		{
+			"name": "AppDesigner",
+			"text": "App Designer Translations",
+			"EN": {
+				"text": "App Designer Translations"
+			},
+			"type": "XTXT",
+			"id": "8b544803-e1c2-47c8-84d2-9cdcc86aa2eb",
+			"PT": {
+				"text": "Traduções do Designer de Aplicativos"
+			},
+			"DE": {
+				"text": "App-Designer-Übersetzungen"
+			},
+			"FR": {
+				"text": "Traductions de concepteurs d'applications"
+			}
+		},
+		{
+			"parent": "AppDesigner",
+			"parentId": "8b544803-e1c2-47c8-84d2-9cdcc86aa2eb",
+			"name": "AppDesigner.tableDescription",
+			"text": "Description",
+			"EN": {
+				"text": "Description"
+			},
+			"type": "XTXT",
+			"id": "0936150b-7205-46b2-901f-5b0e4831e642",
+			"PT": {
+				"text": "Descrição"
+			},
+			"DE": {
+				"text": "Beschreibung"
+			},
+			"FR": {
+				"text": "Description"
+			}
+		},
+		{
+			"parent": "AppDesigner",
+			"parentId": "8b544803-e1c2-47c8-84d2-9cdcc86aa2eb",
+			"name": "AppDesigner.tableMaterialID",
+			"text": "Material ID",
+			"EN": {
+				"text": "Material ID"
+			},
+			"type": "XTXT",
+			"id": "0b23d3f5-151d-4f45-8587-9a0ed9235bcc",
+			"PT": {
+				"text": "ID do material"
+			},
+			"DE": {
+				"text": "Material-ID"
+			},
+			"FR": {
+				"text": "ID du matériau"
+			}
+		},
+		{
+			"parent": "AppDesigner",
+			"parentId": "8b544803-e1c2-47c8-84d2-9cdcc86aa2eb",
+			"name": "AppDesigner.tablePrice",
+			"text": "Price (EUR)",
+			"EN": {
+				"text": "Price (EUR)"
+			},
+			"type": "XTXT",
+			"id": "dc4ffb0e-d900-4a82-8723-0c2945a19136",
+			"PT": {
+				"text": "Preço (EUR)"
+			},
+			"DE": {
+				"text": "Preis (EUR)"
+			},
+			"FR": {
+				"text": "Prix (EUR)"
+			}
+		},
+		{
+			"parent": "AppDesigner",
+			"parentId": "8b544803-e1c2-47c8-84d2-9cdcc86aa2eb",
+			"name": "AppDesigner.tableWeight",
+			"text": "Weight (KG)",
+			"EN": {
+				"text": "Weight (KG)"
+			},
+			"type": "XTXT",
+			"id": "ea3dba8c-2f73-4556-b8fb-8ac785a6b481",
+			"PT": {
+				"text": "Peso (KG)"
+			},
+			"DE": {
+				"text": "Gewicht (kg)"
+			},
+			"FR": {
+				"text": "Poids (KG)"
+			}
+		},
+		{
+			"name": "AppDocumentation",
+			"text": "App Documentation",
+			"EN": {
+				"text": "App Documentation"
+			},
+			"type": "XTXT",
+			"id": "ca21fc79-8492-4d6e-ac19-9673d6846ab0",
+			"PT": {
+				"text": "Documentação do aplicativo"
+			},
+			"DE": {
+				"text": "App-Dokumentation"
+			},
+			"FR": {
+				"text": "Documentation de l'application"
+			}
+		},
+		{
+			"parent": "AppDocumentation",
+			"parentId": "ca21fc79-8492-4d6e-ac19-9673d6846ab0",
+			"name": "AppDocumentation.DocumentationIntro",
+			"text": "My own Intro",
+			"EN": {
+				"text": "My own Intro"
+			},
+			"type": "XTXT",
+			"id": "3577f858-50a7-4263-d7f4-d05a9645cdca",
+			"PT": {
+				"text": "Minha própria introdução"
+			},
+			"DE": {
+				"text": "Meine eigene Einleitung"
+			},
+			"FR": {
+				"text": "Ma propre introduction"
+			}
+		},
+		{
+			"parent": "AppDocumentation",
+			"parentId": "ca21fc79-8492-4d6e-ac19-9673d6846ab0",
+			"name": "AppDocumentation.DocumentationText",
+			"text": "Hi! This is a test for the documentation app",
+			"EN": {
+				"text": "Hi! This is a test for the documentation app"
+			},
+			"type": "XTXT",
+			"id": "9244f7e2-3826-4a70-9a80-3d2a4be38d01",
+			"PT": {
+				"text": "Olá! Este é um teste para o aplicativo de documentação."
+			},
+			"DE": {
+				"text": "Hallo! Dies ist ein Test für die Dokumentations-App."
+			},
+			"FR": {
+				"text": "Salut ! Ceci est un test pour l'application de documentation"
+			}
+		},
+		{
+			"parent": "AppDocumentation",
+			"parentId": "ca21fc79-8492-4d6e-ac19-9673d6846ab0",
+			"name": "AppDocumentation.DocumentationTitle",
+			"text": "My own title",
+			"EN": {
+				"text": "My own title"
+			},
+			"type": "XTXT",
+			"id": "ababb87a-1476-4a8a-bcc3-e6136a38a12d",
+			"PT": {
+				"text": "Meu próprio título"
+			},
+			"DE": {
+				"text": "Mein eigener Titel"
+			},
+			"FR": {
+				"text": "Mon propre titre"
+			}
+		},
+		{
+			"name": "EmailTemplate",
+			"text": "Email Template",
+			"EN": {
+				"text": "Email Template"
+			},
+			"type": "XTXT",
+			"id": "c80ff179-99c6-4a2f-b877-941651806df8",
+			"PT": {
+				"text": "Modelo de e-mail"
+			},
+			"DE": {
+				"text": "E-Mail-Vorlage"
+			},
+			"FR": {
+				"text": "Modèle d'e-mail"
+			}
+		},
+		{
+			"parent": "EmailTemplate",
+			"parentId": "c80ff179-99c6-4a2f-b877-941651806df8",
+			"name": "EmailTemplate.EmailBody",
+			"text": "What a wonderful day to bug squash some bugs",
+			"EN": {
+				"text": "What a wonderful day to bug squash some bugs"
+			},
+			"type": "XTXT",
+			"id": "75db3406-0522-49ad-ee77-944b94f3b3c4",
+			"PT": {
+				"text": "Que dia maravilhoso para esmagar alguns insetos!"
+			},
+			"DE": {
+				"text": "Was für ein herrlicher Tag, um ein paar Käfer zu zerquetschen!"
+			},
+			"FR": {
+				"text": "Quelle belle journée pour écraser quelques insectes !"
+			}
+		},
+		{
+			"parent": "EmailTemplate",
+			"parentId": "c80ff179-99c6-4a2f-b877-941651806df8",
+			"name": "EmailTemplate.EmailHello",
+			"text": "Hello, Good morning!",
+			"EN": {
+				"text": "Hello, Good morning!"
+			},
+			"type": "XTXT",
+			"id": "4bd0f25f-95d8-454b-c7f8-107d98a564c5",
+			"PT": {
+				"text": "Olá, bom dia!"
+			},
+			"DE": {
+				"text": "Hallo guten Morgen!"
+			},
+			"FR": {
+				"text": "Bonjour !"
+			}
+		},
+		{
+			"parent": "EmailTemplate",
+			"parentId": "c80ff179-99c6-4a2f-b877-941651806df8",
+			"name": "EmailTemplate.EmailSubject",
+			"text": "Please read this translated email subject",
+			"EN": {
+				"text": "Please read this translated email subject"
+			},
+			"type": "XTXT",
+			"id": "8394239c-df90-4070-fb13-654ef3346643",
+			"PT": {
+				"text": "Por favor, leia o assunto deste e-mail traduzido."
+			},
+			"DE": {
+				"text": "Bitte lesen Sie den übersetzten Betreff dieser E-Mail."
+			},
+			"FR": {
+				"text": "Veuillez lire l'objet de cet e-mail traduit"
+			}
+		},
+		{
+			"name": "Launchpad",
+			"text": "i18n Translated Launchpad",
+			"EN": {
+				"text": "i18n Translated Launchpad"
+			},
+			"type": "XTXT",
+			"id": "7a788eb2-c335-48d6-e093-1ecad4d6dfc1",
+			"PT": {
+				"text": "Launchpad traduzido i18n"
+			},
+			"DE": {
+				"text": "i18n Translated Launchpad"
+			},
+			"FR": {
+				"text": "Plateforme de lancement traduite i18n"
+			}
+		},
+		{
+			"parent": "Launchpad",
+			"parentId": "7a788eb2-c335-48d6-e093-1ecad4d6dfc1",
+			"name": "Launchpad.LaunchpadDescription",
+			"text": "This is an i18ni18n Translated Launchpad Description where you can maintain translations for multiple languages :)",
+			"EN": {
+				"text": "This is an i18ni18n Translated Launchpad Description where you can maintain translations for multiple languages :)"
+			},
+			"type": "XTXT",
+			"id": "c979053c-0eae-4d90-9ca4-e650f42701eb",
+			"PT": {
+				"text": "Esta é uma descrição traduzida do Launchpad i18ni18n, onde você pode manter traduções para vários idiomas :)"
+			},
+			"DE": {
+				"text": "Dies ist eine übersetzte i18ni18n Launchpad-Beschreibung, in der Sie Übersetzungen für mehrere Sprachen pflegen können :)"
+			},
+			"FR": {
+				"text": "Ceci est une description Launchpad traduite i18ni18n où vous pouvez gérer les traductions pour plusieurs langues :)"
+			}
+		},
+		{
+			"parent": "Launchpad",
+			"parentId": "7a788eb2-c335-48d6-e093-1ecad4d6dfc1",
+			"name": "Launchpad.LaunchpadTitle",
+			"text": "i18n Translated Launchpad Title",
+			"EN": {
+				"text": "i18n Translated Launchpad Title"
+			},
+			"type": "XTXT",
+			"id": "475a790f-faf6-499e-a928-1c9a11448cea",
+			"PT": {
+				"text": "Título do Launchpad traduzido para i18n"
+			},
+			"DE": {
+				"text": "i18n Übersetzter Launchpad-Titel"
+			},
+			"FR": {
+				"text": "Titre Launchpad traduit en i18n"
+			}
+		},
+		{
+			"name": "Tile",
+			"text": "i18n Translated Tile",
+			"EN": {
+				"text": "i18n Translated Tile"
+			},
+			"type": "XTXT",
+			"id": "5e5dfcdc-3ec4-42eb-bc64-ad10a1090d79",
+			"PT": {
+				"text": "Bloco traduzido i18n"
+			},
+			"DE": {
+				"text": "i18n Übersetzungs-Kachel"
+			},
+			"FR": {
+				"text": "Tuile traduite i18n"
+			}
+		},
+		{
+			"parent": "Tile",
+			"parentId": "5e5dfcdc-3ec4-42eb-bc64-ad10a1090d79",
+			"name": "Tile.TileDetails",
+			"text": "This is an i18n translated details where you can maintain translations for multiple languages :)",
+			"EN": {
+				"text": "This is an i18n translated details where you can maintain translations for multiple languages :)"
+			},
+			"type": "XTXT",
+			"id": "6eb7b4cd-4cde-48cd-8181-2622580c7fb8",
+			"DE": {
+				"text": "Dies sind i18n-Übersetzungsdetails, in denen Sie Übersetzungen für mehrere Sprachen verwalten können :)"
+			},
+			"FR": {
+				"text": "Il s'agit d'une section dédiée à l'internationalisation (i18n) où vous pouvez gérer les traductions dans plusieurs langues :)"
+			},
+			"PT": {
+				"text": "Esta é uma página de detalhes traduzida para internacionalização (i18n), onde você pode manter traduções para vários idiomas :)"
+			}
+		},
+		{
+			"parent": "Tile",
+			"parentId": "5e5dfcdc-3ec4-42eb-bc64-ad10a1090d79",
+			"name": "Tile.TileStatus",
+			"text": "i18n Translated Tile Status",
+			"EN": {
+				"text": "i18n Translated Tile Status"
+			},
+			"type": "XTXT",
+			"id": "086d0563-454a-447c-ef79-09252cc90442",
+			"PT": {
+				"text": "Status do bloco traduzido i18n"
+			},
+			"DE": {
+				"text": "i18n-Übersetzter Kachelstatus"
+			},
+			"FR": {
+				"text": "État des tuiles traduites i18n"
+			}
+		},
+		{
+			"parent": "Tile",
+			"parentId": "5e5dfcdc-3ec4-42eb-bc64-ad10a1090d79",
+			"name": "Tile.TileSubtitle",
+			"text": "i18n Translated Tile Subtitle",
+			"EN": {
+				"text": "i18n Translated Tile Subtitle"
+			},
+			"type": "XTXT",
+			"id": "35496fd1-bdf8-4d98-b543-2194bdd854b1",
+			"PT": {
+				"text": "Legenda traduzida para i18n"
+			},
+			"DE": {
+				"text": "i18n Übersetzter Titel"
+			},
+			"FR": {
+				"text": "Sous-titres de tuiles traduits i18n"
+			}
+		},
+		{
+			"name": "TileGroup",
+			"text": "i18n Translated Tile Group",
+			"EN": {
+				"text": "i18n Translated Tile Group"
+			},
+			"type": "XTXT",
+			"id": "a045c775-28a1-4c83-b4c1-17fcb10746ab",
+			"PT": {
+				"text": "Grupo de blocos traduzidos i18n"
+			},
+			"DE": {
+				"text": "i18n Übersetzte Kachelgruppe"
+			},
+			"FR": {
+				"text": "Groupe de tuiles traduites i18n"
+			}
+		},
+		{
+			"parent": "TileGroup",
+			"parentId": "a045c775-28a1-4c83-b4c1-17fcb10746ab",
+			"name": "TileGroup.TileGroupDescription",
+			"text": "This is an i18n translated text where you can maintain translations for multiple languages :)",
+			"EN": {
+				"text": "This is an i18n translated text where you can maintain translations for multiple languages :)"
+			},
+			"type": "XTXT",
+			"id": "589b0c0b-1aad-4347-ab7a-307800d4dfb8",
+			"DE": {
+				"text": "Dies ist ein international übersetzter Text, in dem Sie Übersetzungen für mehrere Sprachen verwalten können :)"
+			},
+			"FR": {
+				"text": "Il s'agit d'un texte traduit en i18n, où vous pouvez gérer les traductions dans plusieurs langues :)"
+			},
+			"PT": {
+				"text": "Este é um texto traduzido para o padrão internacional (i18n), onde você pode manter traduções para vários idiomas :)"
+			}
+		},
+		{
+			"parent": "TileGroup",
+			"parentId": "a045c775-28a1-4c83-b4c1-17fcb10746ab",
+			"name": "TileGroup.TileGroupMenuText",
+			"text": "This is an i18n translated example menu text of this tile group",
+			"EN": {
+				"text": "This is an i18n translated example menu text of this tile group"
+			},
+			"type": "XTXT",
+			"id": "a110118f-dd1f-4e00-8ced-4a20defeb7d9",
+			"DE": {
+				"text": "Dies ist ein ins Internationalisierung (i18n) übersetzter Beispielmenütext dieser Kachelgruppe."
+			},
+			"FR": {
+				"text": "Voici un exemple de texte de menu traduit en i18n pour ce groupe de tuiles"
+			},
+			"PT": {
+				"text": "Este é um exemplo de texto de menu traduzido para o padrão internacional (i18n) deste grupo de blocos."
+			}
+		},
+		{
+			"parent": "TileGroup",
+			"parentId": "a045c775-28a1-4c83-b4c1-17fcb10746ab",
+			"name": "TileGroup.TileGroupSubtitle",
+			"text": "i18n Translated Tile Group Subtitle",
+			"EN": {
+				"text": "i18n Translated Tile Group Subtitle"
+			},
+			"type": "XTXT",
+			"id": "ce671a49-b193-4afc-fb8d-6f1af2789a5a",
+			"DE": {
+				"text": "i18n Übersetzter Titel der Kachelgruppe"
+			},
+			"FR": {
+				"text": "Sous-titre du groupe de tuiles traduit i18n"
+			},
+			"PT": {
+				"text": "Legenda do grupo de blocos traduzida para i18n"
+			}
+		}
+	],
+	"locales": [
+		{
+			"isoCode": "EN"
+		},
+		{
+			"isoCode": "PT"
+		},
+		{
+			"isoCode": "DE"
+		},
+		{
+			"isoCode": "FR"
+		}
+	],
+	"name": "example_translations",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": null,
+	"ver": "25.11.11.1121",
+	"package": "5627a85d-44ba-f011-8194-0022489bf196",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"apps": [
+		{
+			"id": "a39a0e15-c9bb-f011-8194-000d3a68c155",
+			"application": "enablement_app_example",
+			"title": "",
+			"ver": "25.11.10.1409"
+		},
+		{
+			"id": "89626666-31be-f011-8194-000d3ab841af",
+			"application": "qa_test_example",
+			"title": "",
+			"ver": "25.11.10.1226"
+		}
+	],
+	"baseModel": null
+}
