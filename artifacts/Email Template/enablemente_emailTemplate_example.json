@@ -1,0 +1,12 @@
+{
+	"id": "4db3f70d-f7be-f011-8194-0022489d3772",
+	"createdAt": "2025-11-11T12:07:55.940Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"translation": null,
+	"name": "enablemente_emailTemplate_example",
+	"description": "{i18n.example_translations>EmailTemplate.EmailSubject}",
+	"content": "<p>{i18n.example_translations&gt;EmailTemplate.EmailHello}<br></p><p><br></p><p>{i18n.example_translations&gt;EmailTemplate.EmailBody}<br></p>",
+	"ver": "25.11.11.1216",
+	"type": "template",
+	"package": "5627a85d-44ba-f011-8194-0022489bf196"
+}

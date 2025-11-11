@@ -39,8 +39,20 @@
 			"description": null
 		}
 	],
-	"jsclass": [],
-	"jsscript_group": [],
+	"jsclass": [
+		{
+			"id": "662096e3-f6be-f011-8194-0022489d3772",
+			"name": "send_i18n_translated_email",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "a3be96dc-f6be-f011-8194-0022489d3772",
+			"name": "example_script_i18n",
+			"description": ""
+		}
+	],
 	"theme": [],
 	"theme_generator": [],
 	"pdf": [],
@@ -81,8 +93,19 @@
 		}
 	],
 	"systems": [],
-	"doc": [],
-	"wf_notifications": [],
+	"doc": [
+		{
+			"id": "8912c8c8-f7be-f011-8194-0022489d3772",
+			"application": "enablement_app_example"
+		}
+	],
+	"wf_notifications": [
+		{
+			"id": "4db3f70d-f7be-f011-8194-0022489d3772",
+			"name": "enablemente_emailTemplate_example",
+			"description": "{i18n.example_translations>EmailTemplate.EmailSubject}"
+		}
+	],
 	"department": [],
 	"script_scheduler": [],
 	"wf_definition": [],

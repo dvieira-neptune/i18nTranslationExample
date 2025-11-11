@@ -143,20 +143,20 @@
 			"parent": "AppDocumentation",
 			"parentId": "ca21fc79-8492-4d6e-ac19-9673d6846ab0",
 			"name": "AppDocumentation.DocumentationText",
-			"text": "Hi! This is a test for the documentation app",
+			"text": "Hi! This is an i18n translated documentation for the enablement app!",
 			"EN": {
-				"text": "Hi! This is a test for the documentation app"
+				"text": "Hi! This is an i18n translated documentation for the enablement app!"
 			},
 			"type": "XTXT",
 			"id": "9244f7e2-3826-4a70-9a80-3d2a4be38d01",
 			"PT": {
-				"text": "Olá! Este é um teste para o aplicativo de documentação."
+				"text": "Olá! Esta é a documentação traduzida para o padrão internacional (i18n) do aplicativo de habilitação!"
 			},
 			"DE": {
-				"text": "Hallo! Dies ist ein Test für die Dokumentations-App."
+				"text": "Hallo! Dies ist eine ins Internationalisierung (i18n) übersetzte Dokumentation für die Aktivierungs-App!"
 			},
 			"FR": {
-				"text": "Salut ! Ceci est un test pour l'application de documentation"
+				"text": "Salut ! Voici la documentation traduite en i18n pour l'application d'activation !"
 			}
 		},
 		{
@@ -356,6 +356,26 @@
 		{
 			"parent": "Tile",
 			"parentId": "5e5dfcdc-3ec4-42eb-bc64-ad10a1090d79",
+			"name": "Tile.TileHelp",
+			"text": "This is an i18n translated Tile Help where you can maintain translations for multiple languages :)",
+			"EN": {
+				"text": "This is an i18n translated Tile Help where you can maintain translations for multiple languages :)"
+			},
+			"type": "XTXT",
+			"id": "c65811e7-560d-490f-c629-2d09983bdfab",
+			"DE": {
+				"text": "Dies ist eine international übersetzte Tile-Hilfe, in der Sie Übersetzungen für mehrere Sprachen verwalten können :)"
+			},
+			"FR": {
+				"text": "Il s'agit d'une aide en texte traduite en i18n où vous pouvez gérer les traductions dans plusieurs langues :)"
+			},
+			"PT": {
+				"text": "Esta é uma Ajuda do Tile traduzida para vários idiomas (i18n) :)"
+			}
+		},
+		{
+			"parent": "Tile",
+			"parentId": "5e5dfcdc-3ec4-42eb-bc64-ad10a1090d79",
 			"name": "Tile.TileStatus",
 			"text": "i18n Translated Tile Status",
 			"EN": {
@@ -490,7 +510,7 @@
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": null,
-	"ver": "25.11.11.1121",
+	"ver": "25.11.11.1215",
 	"package": "5627a85d-44ba-f011-8194-0022489bf196",
 	"active": true,
 	"deleted": false,

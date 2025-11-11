@@ -1,0 +1,25 @@
+{
+	"id": "8912c8c8-f7be-f011-8194-0022489d3772",
+	"createdAt": "2025-11-11T12:13:09.360Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"content": [
+		{
+			"id": "767c6428-342b-4e7d-e302-d1bd84c6cf10",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<p>{i18n.example_translations&gt;AppDocumentation.DocumentationText}<br></p>",
+			"typeWidth": "px",
+			"typeHeight": "px",
+			"icon": "",
+			"title": "{i18n.example_translations>AppDocumentation.DocumentationTitle}",
+			"description": "{i18n.example_translations>AppDocumentation.DocumentationIntro}"
+		}
+	],
+	"application": "enablement_app_example",
+	"actionType": "A",
+	"adaptiveId": null,
+	"actionWebApp": null,
+	"ver": "25.11.11.1215",
+	"package": "5627a85d-44ba-f011-8194-0022489bf196"
+}

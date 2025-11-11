@@ -1,0 +1,21 @@
+{
+	"id": "662096e3-f6be-f011-8194-0022489d3772",
+	"createdAt": "2025-11-11T12:06:44.830Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"agents": [],
+	"apis": [],
+	"name": "send_i18n_translated_email",
+	"ver": "25.11.11.1217",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "a3be96dc-f6be-f011-8194-0022489d3772",
+	"package": "5627a85d-44ba-f011-8194-0022489bf196"
+}
