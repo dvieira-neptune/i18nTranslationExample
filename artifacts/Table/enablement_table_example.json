@@ -47,11 +47,5 @@
 	"package": "5627a85d-44ba-f011-8194-0022489bf196",
 	"generationStrategy": null,
 	"rolesRead": [],
-	"rolesWrite": [
-		{
-			"id": "18e616be-c1bb-f011-8194-000d3a68c155",
-			"name": "enablement_role_example",
-			"ver": "25.11.11.1231"
-		}
-	]
+	"rolesWrite": []
 }
