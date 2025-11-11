@@ -41,23 +41,17 @@
 	"vectorStoreConfig": {},
 	"name": "enablement_table_example",
 	"description": null,
-	"ver": "25.11.11.1124",
+	"ver": "25.11.11.1231",
 	"enableAudit": false,
 	"includeDataInPackage": true,
 	"package": "5627a85d-44ba-f011-8194-0022489bf196",
 	"generationStrategy": null,
-	"rolesRead": [
-		{
-			"id": "18e616be-c1bb-f011-8194-000d3a68c155",
-			"name": "enablement_role_example",
-			"ver": "25.11.07.1008"
-		}
-	],
+	"rolesRead": [],
 	"rolesWrite": [
 		{
 			"id": "18e616be-c1bb-f011-8194-000d3a68c155",
 			"name": "enablement_role_example",
-			"ver": "25.11.07.1008"
+			"ver": "25.11.11.1231"
 		}
 	]
 }
