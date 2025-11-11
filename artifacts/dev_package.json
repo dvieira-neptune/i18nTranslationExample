@@ -8,7 +8,7 @@
 	},
 	"name": "enablement_examples",
 	"description": null,
-	"ver": "25.11.11.1125",
+	"ver": "25.11.11.1127",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,

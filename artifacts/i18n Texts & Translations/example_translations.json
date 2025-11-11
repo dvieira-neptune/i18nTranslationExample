@@ -502,12 +502,6 @@
 			"application": "enablement_app_example",
 			"title": "",
 			"ver": "25.11.10.1409"
-		},
-		{
-			"id": "89626666-31be-f011-8194-000d3ab841af",
-			"application": "qa_test_example",
-			"title": "",
-			"ver": "25.11.10.1226"
 		}
 	],
 	"baseModel": null
