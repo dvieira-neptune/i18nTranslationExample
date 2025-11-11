@@ -51,7 +51,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.11.11.1122",
+	"ver": "25.11.11.1556",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -74,7 +74,7 @@
 			"id": "eebe6de3-cebb-f011-8194-000d3a68c155",
 			"name": "enablement_tilegroup_example",
 			"title": "{i18n.example_translations>TileGroup}",
-			"ver": "25.11.11.1118"
+			"ver": "25.11.11.1556"
 		}
 	],
 	"roles": []
