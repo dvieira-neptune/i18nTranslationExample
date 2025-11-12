@@ -46,6 +46,7 @@
 	"deleted": false,
 	"baseModelId": null,
 	"enhancedBy": [],
+	"baseModel": null,
 	"apps": [
 		{
 			"id": "a39a0e15-c9bb-f011-8194-000d3a68c155",
@@ -53,12 +54,5 @@
 			"title": "",
 			"ver": "25.11.10.1409"
 		}
-	],
-	"baseModel": null,
-	"adaptive": [],
-	"launchpad": [],
-	"category": [],
-	"tile": [],
-	"wf_notifications": [],
-	"doc": []
+	]
 }

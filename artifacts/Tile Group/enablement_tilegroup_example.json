@@ -29,7 +29,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.11.12.0849",
+	"ver": "25.11.12.0955",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -101,7 +101,7 @@
 			"id": "bbbf43d4-cebb-f011-8194-000d3a68c155",
 			"name": "enablement_tile_example",
 			"title": "{i18n.example_translations>Tile}",
-			"ver": "25.11.12.0849"
+			"ver": "25.11.12.0955"
 		}
 	],
 	"tilegroups": [],
