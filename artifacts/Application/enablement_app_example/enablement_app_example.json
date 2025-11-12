@@ -351,5 +351,19 @@
 			"name": "enablement_table_api_example",
 			"ver": "25.11.07.1012"
 		}
+	],
+	"i18n": [
+		{
+			"id": "916f0794-aab4-f011-8e60-000d3ab62c7a",
+			"name": "example_translations",
+			"application": null,
+			"ver": "25.11.11.1215"
+		},
+		{
+			"id": "3d99312f-c9bb-f011-8194-000d3a68c155",
+			"name": "enablement_app_example",
+			"application": "enablement_app_example",
+			"ver": "25.11.10.1409"
+		}
 	]
 }

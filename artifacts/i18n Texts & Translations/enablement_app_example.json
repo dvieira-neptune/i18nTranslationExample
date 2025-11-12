@@ -54,5 +54,11 @@
 			"ver": "25.11.10.1409"
 		}
 	],
-	"baseModel": null
+	"baseModel": null,
+	"adaptive": [],
+	"launchpad": [],
+	"category": [],
+	"tile": [],
+	"wf_notifications": [],
+	"doc": []
 }

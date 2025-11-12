@@ -51,7 +51,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.11.11.1556",
+	"ver": "25.11.12.0848",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -74,8 +74,16 @@
 			"id": "eebe6de3-cebb-f011-8194-000d3a68c155",
 			"name": "enablement_tilegroup_example",
 			"title": "{i18n.example_translations>TileGroup}",
-			"ver": "25.11.11.1556"
+			"ver": "25.11.12.0849"
 		}
 	],
-	"roles": []
+	"roles": [],
+	"i18n": [
+		{
+			"id": "916f0794-aab4-f011-8e60-000d3ab62c7a",
+			"name": "example_translations",
+			"application": null,
+			"ver": "25.11.11.1215"
+		}
+	]
 }

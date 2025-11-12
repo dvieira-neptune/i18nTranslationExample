@@ -29,7 +29,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.11.11.1556",
+	"ver": "25.11.12.0849",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -101,10 +101,18 @@
 			"id": "bbbf43d4-cebb-f011-8194-000d3a68c155",
 			"name": "enablement_tile_example",
 			"title": "{i18n.example_translations>Tile}",
-			"ver": "25.11.11.1555"
+			"ver": "25.11.12.0849"
 		}
 	],
 	"tilegroups": [],
 	"navbarGroups": [],
-	"sidebarGroups": []
+	"sidebarGroups": [],
+	"i18n": [
+		{
+			"id": "916f0794-aab4-f011-8e60-000d3ab62c7a",
+			"name": "example_translations",
+			"application": null,
+			"ver": "25.11.11.1215"
+		}
+	]
 }

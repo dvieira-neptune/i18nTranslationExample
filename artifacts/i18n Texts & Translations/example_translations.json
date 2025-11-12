@@ -524,5 +524,44 @@
 			"ver": "25.11.10.1409"
 		}
 	],
-	"baseModel": null
+	"baseModel": null,
+	"adaptive": [],
+	"launchpad": [
+		{
+			"id": "78d2c4ea-cebb-f011-8194-000d3a68c155",
+			"name": "enablement_launchpad_example",
+			"title": "{i18n.example_translations>Launchpad.LaunchpadTitle}",
+			"ver": "25.11.12.0848"
+		}
+	],
+	"category": [
+		{
+			"id": "eebe6de3-cebb-f011-8194-000d3a68c155",
+			"name": "enablement_tilegroup_example",
+			"title": "{i18n.example_translations>TileGroup}",
+			"ver": "25.11.12.0849"
+		}
+	],
+	"tile": [
+		{
+			"id": "bbbf43d4-cebb-f011-8194-000d3a68c155",
+			"name": "enablement_tile_example",
+			"title": "{i18n.example_translations>Tile}",
+			"ver": "25.11.12.0849"
+		}
+	],
+	"wf_notifications": [
+		{
+			"id": "4db3f70d-f7be-f011-8194-0022489d3772",
+			"name": "enablemente_emailTemplate_example",
+			"ver": "25.11.12.0849"
+		}
+	],
+	"doc": [
+		{
+			"id": "8912c8c8-f7be-f011-8194-0022489d3772",
+			"application": "enablement_app_example",
+			"ver": "25.11.12.0848"
+		}
+	]
 }
